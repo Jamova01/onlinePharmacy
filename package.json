@@ -1,0 +1,29 @@
+{
+  "name": "onlinepharmacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamova01/onlinePharmacy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamova01/onlinePharmacy/issues"
+  },
+  "homepage": "https://github.com/Jamova01/onlinePharmacy#readme",
+  "dependencies": {
+    "next": "^13.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "sass": "^1.55.0"
+  }
+}

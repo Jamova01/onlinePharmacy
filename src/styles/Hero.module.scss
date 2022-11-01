@@ -1,0 +1,31 @@
+.heroSection {
+  display: flex;
+  align-items: center;
+  height: 70vh;
+  background-image: url('https://res.cloudinary.com/dvovmo7yu/image/upload/v1667327977/onlinePharmacy/stefano-intintoli-LF4164_Aw_w-unsplash_pjdsc7.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  margin: 0 0 0 120px;
+
+  h1 {
+    font-size: 52px;
+    text-transform: uppercase;
+    color: white;
+
+  }
+}
+
+.btn {
+  height: 40px;
+  width: 152px;
+  text-transform: uppercase;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(27, 27, 252);
+  font-weight: bold;
+  color: white;
+}
